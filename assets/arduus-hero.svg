@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">ARDUUS — Built for better rides.</title>
+<desc id="desc">Mountain bike equipment and tools. ARDUUS wordmark on a deep forest green background with lime mountain contours.</desc>
+<defs><clipPath id="frame"><rect width="1280" height="420" rx="16"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="420" fill="#102720"/>
+<g fill="none" stroke="#315044" stroke-width="1.5">
+<path d="M625 420 880 80 1125 420M705 420 910 140 1155 420M785 420 940 200 1185 420M865 420 970 260 1215 420"/>
+<path d="M820 420 1120 20 1400 420M900 420 1150 80 1430 420M980 420 1180 140 1460 420M1060 420 1210 200 1490 420"/>
+</g>
+<path d="M810 420 1034 122 1094 202 1133 150 1335 420" fill="none" stroke="#C9F36A" stroke-width="3"/>
+<circle cx="1034" cy="122" r="6" fill="#C9F36A"/>
+<path d="M64 48H104" stroke="#C9F36A" stroke-width="4"/>
+<text x="120" y="54" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" fill="#C5D5CB">MOUNTAIN BIKE EQUIPMENT + TOOLS</text>
+<g transform="translate(64 100) scale(0.39)" fill="#F5F5EB">
+<path d="M0 136 115 2Q120 0 128 0H190Q198 0 202 7L286 136H214L129 91 139 88H191L156 34 67 136Z"/>
+<path d="M226 0H407L437 32V66L409 90H379L431 136H355L265 60H371L380 52V34H249Z"/>
+<path fill-rule="evenodd" d="M444 0H623L658 33V103L622 136H455V34H478L508 65V105H593L603 95V43L593 34H478Z"/>
+<path d="M672 0H727V97L736 106H811L821 97V0H876V107L847 136H703L672 107Z"/>
+<path d="M891 0H946V97L956 106H1030L1041 97V0H1097V107L1067 136H922L891 107Z"/>
+<path d="M1110 31 1140 0H1310L1278 34H1176L1166 43 1177 55H1291L1330 96 1292 136H1093L1125 105H1266V96L1257 88H1141L1110 57Z"/>
+</g>
+<text x="62" y="254" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#F5F5EB">Built for</text>
+<text x="62" y="320" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#C9F36A">better rides.</text>
+<text x="64" y="375" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="1" fill="#C5D5CB">FROM THE TRAIL TO THE WORKBENCH.</text>
+</g>
+</svg>
